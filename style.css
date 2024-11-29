@@ -1,0 +1,19 @@
+* {
+      padding :0;
+      margin:0;
+      border-box:box-sizing;
+}
+
+.jumbotron {
+      padding-top: 6rem ;
+      background-color: #aadfffc9;
+}
+
+#project {
+      background-color: #aadfffc9;
+}
+
+
+section {
+      padding-top:5rem;
+}
